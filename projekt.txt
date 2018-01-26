@@ -42,6 +42,7 @@ Temat projektu B [link do projektu na github]
 
 12	Strączek	Alicja Katarzyna Projekt 
     A: Snake [https://github.com/crystalxviolet/1]
+    B: Kalkulator [https://github.com/crystalxviolet/2]
 
 13	Zielińska	Paulina           
     A: kółko  [https://github.com/paulina1309/projekt1]
